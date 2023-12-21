@@ -1,4 +1,6 @@
-# Worlds smallest Docker Image - aka WSDI
+# Worlds smallest Docker Image - aka WSDI | 92 bytes
+
+https://hub.docker.com/repository/docker/dooqod/wsdi/general
 
 Hi everyone,
 
@@ -51,7 +53,7 @@ https://hub.docker.com/_/scratch
 # just clone the repo
 # cd into repository and run 
 
-docker build -t wsdi Dockerfile .
+docker build -t wsdi .
 
 # or pull from DockerHub
 
