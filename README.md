@@ -21,7 +21,7 @@ But it'll take lots of time and resources.
 We decided to create the smallest one and publish under DockerHub. Sounds promising.
 
 ## Wow moment
-Wow, we can create the smallest Docker image in the wold.
+Wow, we can create the smallest Docker image in the world.
 It can be the MVP and we can try to sell it :) 
 
 So we started this project right away.
@@ -70,7 +70,7 @@ Our goal is to make this image minimal.
 We'll put all our efforts to keep it simple and small also in the feature.
 
  - Give a Github Star
- - Buy cofee
+ - Buy lambo - 
 
 
 
