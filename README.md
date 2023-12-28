@@ -11,7 +11,7 @@ Our team at Dooqod did extensive research on to figure out this.
 
 We come up with 2 approaches to figure this out.
 
-## Approch 1:
+## Approach 1:
 At least there is finate amount of Docker images under DockerHub. 
 So this task should not be impossible. To run all of them and compare.
 
